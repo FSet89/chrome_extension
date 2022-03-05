@@ -1,0 +1,1 @@
+document.getElementById("player_info").innerHTML = "ciao";
